@@ -2,6 +2,7 @@
 
 * [👁️ Боты тг для пробива и докса](README.md)
   * [☑️ UsersBox — мощный тг бот пробива](readme/usersbox-moshnyi-tg-bot-probiva.md)
+  * [🫵 Vektor — бот для многоуровневого пробива информации](readme/vektor-bot-dlya-mnogourovnevogo-probiva-informacii.md)
   * [🕵️ Leak OSINT — новый многофункциональны бот деанона](readme/leak-osint-novichok-no-ne-slabachek.md)
   * [🤖 Zernerda bot — отличные возможности пробива.](readme/zernerda-bot-otlichnye-vozmozhnosti-probiva..md)
   * [☎️ Бесплатный бот Getcontact](readme/besplatnyi-bot-getcontact.md)

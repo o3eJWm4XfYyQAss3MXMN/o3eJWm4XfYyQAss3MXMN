@@ -108,7 +108,7 @@ pip install toutatis==1.3
 
 <div align="center"><figure><img src="../.gitbook/assets/image-28.png" alt=""><figcaption></figcaption></figure></div>
 
-Отправляемся в [**UsersBox**](https://botiprobiva.top/usersbox/), нынче их столько “расплодилось” что практически каждый второй бот это LeakedInfoBot. Все они работают разумеется одинокого и у всех одна база данных, чтобы в этом убедиться, просто зайдите в свою [учётную запись](../readme/usersbox-moshnyi-tg-bot-probiva.md) и узнайте насколько давно вы в “новом боте”.
+Отправляемся в [**UsersBox**](../readme/usersbox-moshnyi-tg-bot-probiva.md), нынче их столько “расплодилось” что практически каждый второй бот это LeakedInfoBot. Все они работают разумеется одинокого и у всех одна база данных, чтобы в этом убедиться, просто зайдите в свою [учётную запись](../readme/usersbox-moshnyi-tg-bot-probiva.md) и узнайте насколько давно вы в “новом боте”.
 
 <div align="center"><figure><img src="../.gitbook/assets/image-29.png" alt=""><figcaption></figcaption></figure></div>
 

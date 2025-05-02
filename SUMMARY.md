@@ -24,3 +24,4 @@
   * [📄 Как пользоваться ботами телеграм для пробива Глаз Бога, LeakedInfo, Quick OSINT](osint-nachalo-puti/kak-polzovatsya-botami-telegram-dlya-probiva-glaz-boga-leakedinfo-quick-osint.md)
   * [☠️ Пробить человека — что это значит?](osint-nachalo-puti/probit-cheloveka-chto-eto-znachit.md)
   * [👀 Краткое описание возможностей ботов "пробива"](osint-nachalo-puti/kratkoe-opisanie-vozmozhnostei-botov-probiva.md)
+* [Sherlock — актуальный инструмент OSINT в Telegram](sherlock-aktualnyi-instrument-osint-v-telegram.md)

@@ -33,7 +33,7 @@ description: >-
 1. [**Vektor**](../readme/vektor-bot-dlya-mnogourovnevogo-probiva-informacii.md) **-** старый, легендарный бот. Есть 2 бесплатных запроса.
 2. [**UsersBox**](../readme/usersbox-moshnyi-tg-bot-probiva.md) - тот самый "ЮзерБокс", в представлении не нуждается.
 3. [**Leak OSINT**](../readme/leak-osint-novichok-no-ne-slabachek.md) - работает _не_ только по "открытым источникам".
-4. [**Zernerda**](../readme/zernerda-bot-otlichnye-vozmozhnosti-probiva..md) - умеет искать практически по любой информации.
+4. [**Sherlock**](../readme/sherlock-aktualnyi-bot-dlya-osint-v-telegram.md) - умеет искать практически по любой информации.
 
 _Я не стану расписывать возможности каждого, они все выполняют одну функцию, только по разным базам. Не вижу смысла делать огромный список, главные тулзы при правильном использовании отлично делают свою работу._
 
